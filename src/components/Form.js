@@ -1,4 +1,5 @@
-import dogForm from "./images/dog-computer.jpg";
+// import dogForm from "../images/dog-computer.jpg";
+const dogForm = "../images/dog-computer.jpg";
 
 const Form = () => {
     return (
