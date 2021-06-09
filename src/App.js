@@ -1,9 +1,14 @@
 import React from "react";
+import Banner from "./components/Banner";
+import Form from "./components/Form";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
     <div>
-      <h1> Lead Capture App</h1>
+      <Banner />
+      <Form />
+      <Footer />
     </div>
   )
 }
